@@ -1,0 +1,19 @@
+Carga 8 ohm
+Entrada max: 1V de pico
+Entrada max --> 100% duty cycle
+Entrada min --> 0% duty cycle (Controla pelo Rb)
+
+Vcc controla a potência <-- não dá pra ver na simulação
+Determinar Vcc para 2W
+
+Bancada:
+	Pegar classe AB
+	Colocar entrada que dá 2W na saída
+	Medir NPS
+	Colocar entrada que faz o classe D fornecer o mesmo NPS
+
+Para quinta:
+
+	Esquemático pronto
+	Pensar como dimensionar Vcc
+	Como adaptar Rb
